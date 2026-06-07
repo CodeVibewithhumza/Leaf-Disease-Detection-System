@@ -63,23 +63,7 @@ And activate virtual environment by running command
 myenv\Scripts\activate
 ```
 
-## Installation
-
-#### Install my-project in your envrionment
-
-step1 : clone the repo
-```bash
-https://github.com/Abhi-vish/Leaf-Disease-Detection.git
-```
-
-step2 : install requirements.txt package by running commnad
-```bash
-pip install  -r requirements.txt
-```
-step3 : open terminal and run commnad
-```bash
-python app.py 
-```    
+   
     
 ## 🚀 About Me
 I'm a student...
