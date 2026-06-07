@@ -45,23 +45,7 @@ This dataset contains 87,000 RGB images of healthy and diseased crop leaves cate
 	36 : 'Tomato mosaic virus',
 	37 : 'Tomato healthy'
 
-## preview
 
-
-
-
-## Virtual Environment 
-
-
-
-Create a virtual environment to ensure that the project runs smoothly without any impact on your system's environment.
-```bash
-python -m venv myenv
-```
-And activate virtual environment by running command
-```bash
-myenv\Scripts\activate
-```
 
    
     
